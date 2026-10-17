@@ -21,6 +21,33 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+## 💻 Featured Projects
+
+### 1. Python To-Do List
+A command-line task management application built with Python.
+
+- Add, view, and remove tasks.
+- Track completed and pending tasks.
+- Organize tasks by priority.
+- Search and filter tasks.
+- Save tasks using file handling.
+
+**Technologies:** Python
+
+### 2. Python Expense Tracker 🚧
+A command-line application I'm developing to manage and analyze expenses.
+
+- Add and view expenses.
+- Calculate total spending.
+- Analyze spending by category.
+- Identify the highest expense.
+
+**Technologies:** Python
+
+### 3. Facebook Clone Website
+A Facebook-style website created while following a Git and GitHub tutorial.
+
+**Technologies:** HTML, CSS, and Git/GitHub
 <!--
 **nikitasolanki2309/nikitasolanki2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
