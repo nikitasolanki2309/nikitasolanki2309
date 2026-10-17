@@ -23,7 +23,7 @@
 
 ## 💻 Featured Projects
 
-### 1. Python To-Do List
+### 1. [Python To-Do List](https://github.com/nikitasolanki2309/todo-list)
 A command-line task management application built with Python.
 
 - Add, view, and remove tasks.
@@ -34,8 +34,8 @@ A command-line task management application built with Python.
 
 **Technologies:** Python
 
-### 2. Python Expense Tracker 🚧
-A command-line application I'm developing to manage and analyze expenses.
+### 2. [Python Expense Tracker](https://github.com/nikitasolanki2309/python-expense-tracker) 🚧
+A command-line application currently under development to manage and analyze expenses.
 
 - Add and view expenses.
 - Calculate total spending.
@@ -44,10 +44,10 @@ A command-line application I'm developing to manage and analyze expenses.
 
 **Technologies:** Python
 
-### 3. Facebook Clone Website
+### 3. [Facebook Clone Website](https://github.com/nikitasolanki2309/fb-clone-website)
 A Facebook-style website created while following a Git and GitHub tutorial.
 
-**Technologies:** HTML, CSS, and Git/GitHub
+**Technologies:** HTML, CSS, Git, and GitHub
 <!--
 **nikitasolanki2309/nikitasolanki2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
