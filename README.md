@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Nikita Solanki! 👋
+
+🎓 B.Sc. Physical Science student specializing in Computer Science, Mathematics, and Physics.
+
+💻 I'm learning Python and software development, building projects, and improving my programming skills.
+
+🤖 I've completed AI training through the Honeywell Future Skills Edge Program with BharatCares and Data Science training through Acmegrade.
+
+🌱 Currently learning Python through CodeWithHarry's Ultimate Python Course and exploring software development, AI, and Data Science.
+
+📍 Jhajjar, Haryana, India
 
 <!--
 **nikitasolanki2309/nikitasolanki2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
