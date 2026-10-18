@@ -23,7 +23,15 @@
 
 ## 💻 Featured Projects
 
-### 1. [Python To-Do List](https://github.com/nikitasolanki2309/todo-list)
+### 1. 🎙️ [Jarvis Virtual Assistant](https://github.com/nikitasolanki2309/jarvis-virtual-assistant)
+
+A Python-based voice assistant that uses speech recognition and text-to-speech to interact with users and perform tasks through voice commands.
+
+**Technologies:** Python, Speech Recognition, Text-to-Speech
+
+**Repository:** [View Project](https://github.com/nikitasolanki2309/jarvis-virtual-assistant)
+
+### 2. [Python To-Do List](https://github.com/nikitasolanki2309/todo-list)
 A command-line task management application built with Python.
 
 - Add, view, and remove tasks.
@@ -34,7 +42,7 @@ A command-line task management application built with Python.
 
 **Technologies:** Python
 
-### 2. [Python Expense Tracker](https://github.com/nikitasolanki2309/python-expense-tracker) 🚧
+### 3. [Python Expense Tracker](https://github.com/nikitasolanki2309/python-expense-tracker) 🚧
 A command-line application currently under development to manage and analyze expenses.
 
 - Add and view expenses.
@@ -44,7 +52,7 @@ A command-line application currently under development to manage and analyze exp
 
 **Technologies:** Python
 
-### 3. [Facebook Clone Website](https://github.com/nikitasolanki2309/fb-clone-website)
+### 4. [Facebook Clone Website](https://github.com/nikitasolanki2309/fb-clone-website)
 A Facebook-style website created while following a Git and GitHub tutorial.
 
 **Technologies:** HTML, CSS, Git, and GitHub
